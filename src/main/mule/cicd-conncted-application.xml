@@ -18,7 +18,7 @@ output application/json
 ---
 {
 	"status": "successfully Deployed",
-	"message": "CICD message output."
+	"message": "cicd message output."
 }
 	]]></ee:set-payload>
 			</ee:message>
